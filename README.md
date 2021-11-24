@@ -12,15 +12,15 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Análise de séries temporais com R | [link](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/R/An%C3%A1lise%20de%20s%C3%A9ries%20temporais%20com%20R) |
-Análise de dados - Introdução com R | [link](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [link](https://github.com/binhojulix/machine-learning/blob/master/R/An%C3%A1lise%20de%20dados%20-%20Introdu%C3%A7%C3%A3o%20com%20R) |
+| Análise de séries temporais com R | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/R/An%C3%A1lise%20de%20s%C3%A9ries%20temporais%20com%20R) |
+Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix/machine-learning/blob/master/R/An%C3%A1lise%20de%20dados%20-%20Introdu%C3%A7%C3%A3o%20com%20R) |
 
 
 # Python
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | [link](https://towardsdatascience.com/how-to-create-fake-data-with-faker-a835e5b7a9d9) | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 
