@@ -26,19 +26,19 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Introdução a Inteligência Artifical) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/introdução_a_ia) |
 
 # Arquitetura de Dados
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/arquitetura_de_dados) |
 
 # Estatistíca
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 
 # R
 
@@ -60,14 +60,14 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
 
 
 # Processamento de linguagem natural
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/processamento_de_linguagem_natural) |
 
 
 # Deep learning e reinforcemnt learning
@@ -116,7 +116,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
 
 # Startup one
