@@ -112,7 +112,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
-# Visão Computacional
+# Visao Computacional
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
