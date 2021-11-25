@@ -22,7 +22,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 15. [Startup one](#startup-one)
 
 
-# Introdução a IA
+# Introducao a IA
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -34,7 +34,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/arquitetura_de_dados) |
 
-# Estatistíca
+# Estatistica
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -102,10 +102,10 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/amazons3) |
 
 
-# Técnicas de audição cognitiva
+# Tecnicas de audicao cognitiva
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
