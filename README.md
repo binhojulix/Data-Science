@@ -19,9 +19,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 12. [Plataformas cognitivas](#plataforma-cognitiva)
 13. [Técnicas de audição cognitiva](#tecnicas-de-audicao-cognitiva) 
 14. [Visão Computacional](#visao-computacional)
-15. [Análise de dados](#analise-de-dados)
-16. [Visualização de dados](#visualizacao-de-dados)
-17. [Startup one](#startup-one)
+15. [Startup one](#startup-one)
 
 
 # Introdução a IA
@@ -118,30 +116,12 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Básico | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Histograma | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Manipulação e transformação de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Segmentação de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Classificadores de objetos e análise facial | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Deep learning e transfer learning aplicado a visão computacional | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Transfer learning com Yolo e descritores de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-
-
-
-
-
-# Análise de dados
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
-
-
-# Visualização de dados
-
-| Titulo        | Artigo           | Repositorio  |
-| ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Startup one
