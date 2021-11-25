@@ -102,7 +102,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/amazons3) |
+| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Plataforma%20cognitivas/amazons3) |
 
 
 # Tecnicas de audicao cognitiva
