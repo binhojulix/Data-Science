@@ -13,8 +13,8 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 5.  [Processamento de linguagem natural](#processamento-de-linguagem-natural)
 6.  [Deep learning e reinforcemnt learning](#deep-learning-reinforcemnt-learning)
 7.  [Interpretando Deslocamento e geolacalização](#deslocamento-e-geocalizacao)
-8. [Plataformas cognitivas](#plataforma-cognitiva)
-9. [Técnicas de audição cognitiva](#tecnicas-de-audicao-cognitiva) 
+8.  [Plataformas cognitivas](#plataforma-cognitiva)
+9.  [Técnicas de audição cognitiva](#tecnicas-de-audicao-cognitiva) 
 10. [Visão Computacional](#visao-computacional)
 
 
@@ -24,7 +24,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 # Estatistica
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
 
 
 # R
@@ -93,20 +93,21 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
-
 # Plataformas cognitivas
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Plataforma%20cognitivas/amazons3) |
+| O processo de ETL | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Processamento de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Visualizando os dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Tecnicas de audicao cognitiva
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
-
-
+| O processo de ETL | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Processamento de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Visualizando os dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 # Visao Computacional
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
