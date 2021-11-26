@@ -67,7 +67,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/processamento_de_linguagem_natural) |
+| Stemming | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Processamento%20de%20linguagem%20natural/Stemming%20-%20NLP.ipynb) |
+
 
 
 # Deep learning e reinforcemnt learning
