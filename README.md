@@ -134,7 +134,6 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Segmentação de objetos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Extração de características | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Reconhecimento de padróes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-
 | Algoritimo Haar Cascade | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
 # Startup one
