@@ -23,25 +23,24 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 
 
 # Introducao a IA
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/introdução_a_ia) |
 
-# Arquitetura de Dados
 
+# Arquitetura de Dados
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/arquitetura_de_dados) |
 
-# Estatistica
 
+# Estatistica
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 
-# R
 
+# R
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Análise de séries temporais com R | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/R/An%C3%A1lise%20de%20s%C3%A9ries%20temporais%20com%20R) |
@@ -49,7 +48,6 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 
 # Python
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
@@ -63,9 +61,11 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Herança Múltipla e interfaces | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Exceções e Erros | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Collections | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Testes em python | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Módulos e pacotes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+
 
 # Modelos de Inteligencia artifical e machine learning
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Classifcando e validando um modelo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
@@ -78,36 +78,30 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 
 # Processamento de linguagem natural
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Stemming | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Processamento%20de%20linguagem%20natural/Stemming%20-%20NLP.ipynb) |
 
 
-
 # Deep learning e reinforcemnt learning
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Interpretando Deslocamento e geolacalização
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Gestao de projetos de IA
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Robotica e IOT
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
@@ -121,14 +115,12 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 
 # Tecnicas de audicao cognitiva
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
 # Visao Computacional
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
@@ -143,7 +135,6 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Algoritimo Haar Cascade | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
 # Startup one
-
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
