@@ -75,7 +75,11 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 # Modelos de Inteligencia artifical e machine learning
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Classifcando e validando um modelo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|A estrutura de séries | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|A estrutura de dataframe | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Combinando dataframe | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Transformação e limpeza de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Classifcando e validando um modelo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
 |Classificação de variáveis categóricas | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
 |Naive bayes e maximum a posteriori | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
 |Testando diferentes modelos e validando o vencedor | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
