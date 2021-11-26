@@ -53,10 +53,18 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Variáveis e tipos embutidos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Estrutura de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Funções | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Arquivos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Orientação a objetos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Modificadores de acesso e métodos de classe | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Herança e Polimorfismo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Herança Múltipla e interfaces | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Exceções e Erros | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Collections | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
-
-
-# Modelos de Inteligência artifical e machine learning
+# Modelos de Inteligencia artifical e machine learning
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -85,14 +93,14 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
-# Gestão de projetos de IA
+# Gestao de projetos de IA
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 
 
-# Robótica e IOT
+# Robotica e IOT
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
