@@ -37,7 +37,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 # Estatistica
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 
 
 # R
@@ -45,6 +45,13 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 | ------------- |:-------------:| :-----:|
 | Análise de séries temporais com R | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/R/An%C3%A1lise%20de%20s%C3%A9ries%20temporais%20com%20R) |
 Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix/machine-learning/blob/master/R/An%C3%A1lise%20de%20dados%20-%20Introdu%C3%A7%C3%A3o%20com%20R) |
+| Pré processamento de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Modelos de classificação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Práticas de classificação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Modelos de regressão | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Práticas de regressão | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Modelos de associação e agrupamento | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Práticas	de	Associação	e	Agrupamento | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 
 
 # Python
