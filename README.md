@@ -126,12 +126,16 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Manipulação e transformação de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Segmentação de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Classificadores de objetos e análise facial | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Deep learning e transfer learning aplicado a visão computacional | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-| Transfer learning com Yolo e descritores de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Representação de cores no espaço | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Pré-processamento | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Aplicação de filtros | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Realce de bordas | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Operações morfológicas | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Segmentação de objetos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Extração de características | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+| Reconhecimento de padróes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
+| Algoritimo Haar Cascade | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
 # Startup one
 
