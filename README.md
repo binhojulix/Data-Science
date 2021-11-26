@@ -68,7 +68,13 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-| Classifcando e validando um modelo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | Classificação de variáveis categóricas | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | Naive bayes e maximum a posteriori | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | Testando diferentes modelos e validando o vencedor | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | Utilizando o k-fold  | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | Criando um dicionário | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |Classificação de textos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
+| Classifcando e validando um modelo | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Classificação de variáveis categóricas | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Naive bayes e maximum a posteriori | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Testando diferentes modelos e validando o vencedor | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Utilizando o k-fold  | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|Criando um dicionário | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
+|Classificação de textos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
 
 
 # Processamento de linguagem natural
