@@ -25,7 +25,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
-|
+
 
 # R
 | Titulo        | Artigo           | Repositorio  |
@@ -44,7 +44,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 # Modelos de Inteligencia artifical e machine learning
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-|A estrutura de séries | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
+|A estrutura de séries | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning) | 
 
 # Processamento de linguagem natural
 | Titulo        | Artigo           | Repositorio  |
