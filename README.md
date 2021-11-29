@@ -66,7 +66,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
-| Estrutura de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+| Estrutura de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python/estrutura_de_dados) |
 | Funções | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Arquivos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Orientação a objetos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
