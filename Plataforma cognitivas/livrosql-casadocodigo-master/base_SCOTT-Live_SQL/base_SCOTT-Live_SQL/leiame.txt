@@ -1,0 +1,9 @@
+Procedimento para a criação e exclusão da base de dados de teste para o treinamento de Oracle PLSQL.
+====================================================================================================
+
+Para criar a base de dados execute o arquivo DEMOBLD.SQL pelo sqlplus.
+
+Para excluir a base de dados execute o arquivo DEMODROP.SQL pelo sqlplus. 
+
+
+
