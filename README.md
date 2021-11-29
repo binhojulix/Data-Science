@@ -44,7 +44,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 # Modelos de Inteligencia artifical e machine learning
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
-|A estrutura de séries | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning) | 
+|Classificação | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/classificacao.ipynb) | 
+|Pandas | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pandas.ipynb) | 
 
 # Processamento de linguagem natural
 | Titulo        | Artigo           | Repositorio  |
