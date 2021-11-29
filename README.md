@@ -25,6 +25,26 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Tipos de variáveis | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Probabilidade | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Probabilidade Condicional | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Teorema de bayes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Modelos Classificatórios e Preditivos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Regressão Multinomial | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Segmentação da base | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Grafos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Matrizes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Numpy | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Teste de hipótese | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Coeficiente de correlação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+| Diagramas de disperção| | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Modelos Lineares | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Série temporal | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+
+
+
+| Modelos Classificatórios e Preditivos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
+| Modelos Classificatórios e Preditivos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
 
 
 # R
@@ -39,6 +59,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Práticas de regressão | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 | Modelos de associação e agrupamento | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
 | Práticas	de	Associação	e	Agrupamento | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/estatistica) |
+
 
 
 # Python
@@ -73,7 +94,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 |Utilizando o k-fold  | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) | 
 |Criando um dicionário | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
 |Classificação de textos | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
-
+|Regressão logistica | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
+|Árvore de decisão | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/machine_learning) |
 
 # Processamento de linguagem natural
 | Titulo        | Artigo           | Repositorio  |
@@ -108,6 +130,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | O processo de ETL | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Processamento de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Visualizando os dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
+
+
 # Visao Computacional
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
@@ -121,4 +145,4 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Extração de características | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Reconhecimento de padróes | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 | Algoritimo Haar Cascade | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-
+| Classificador de imagens | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
