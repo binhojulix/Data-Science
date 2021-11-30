@@ -11,7 +11,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 3.  [Python](#Python)
 4.  [Modelos de Inteligência artifical e machine learning](#modelos-de-inteligencia-artifical-e-machine-learning)
 5.  [Processamento de linguagem natural](#processamento-de-linguagem-natural)
-6.  [Deep learning e reinforcemnt learning](#deep-learning-reinforcemnt-learning)
+6.  [Deep learning e reinforcemnt learning](#deep-learning-e-reinforcemnt-learning)
 7.  [Interpretando Deslocamento e geolacalização](#deslocamento-e-geocalizacao)
 8.  [Plataformas cognitivas](#plataforma-cognitiva)
 9.  [Técnicas de audição cognitiva](#tecnicas-de-audicao-cognitiva) 
