@@ -25,7 +25,7 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Conceitos	básicos	de	estatística	e	álgebra	linear | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Estat%C3%ADstica) |
-| Estatistica para selecao de atributos | |[link(https://github.com/binhojulix/ciencias-de-dados/blob/master/Estat%C3%ADstica/estatistica_para_selecao_de_atributo.ipynb |
+| Estatistica para selecao de atributos | |	[link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Estat%C3%ADstica/estatistica_para_selecao_de_atributo.ipynb |
 
 
 # R
