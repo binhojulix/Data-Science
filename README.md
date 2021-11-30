@@ -39,7 +39,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | ------------- |:-------------:| :-----:|
 | Lógica de Programação | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python) |
 | Estrutura de dados | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Python/estrutura_de_dados) |
-
+|Introdução ao pandas| | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Python/introducao_ao_pandas.ipynb)
 
 # Modelos de Inteligencia artifical e machine learning
 | Titulo        | Artigo           | Repositorio  |
