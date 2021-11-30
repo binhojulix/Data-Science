@@ -12,11 +12,11 @@ Data Science tópicos com códigos e artigos no meu [java blog]https://medium.co
 4.  [Modelos de Inteligência artifical e machine learning](#modelos-de-inteligencia-artifical-e-machine-learning)
 5.  [Processamento de linguagem natural](#processamento-de-linguagem-natural)
 6.  [Deep learning e reinforcemnt learning](#deep-learning-e-reinforcemnt-learning)
-7.  [Interpretando Deslocamento e geolacalização](#deslocamento-e-geocalizacao)
+7.  [Interpretando Deslocamento e geolacalização](#interpretando-deslocamento-e-geolacalizacao)
 8.  [Plataformas cognitivas](#plataforma-cognitiva)
 9.  [Técnicas de audição cognitiva](#tecnicas-de-audicao-cognitiva) 
 10. [Visão Computacional](#visao-computacional)
-
+11. [Visualizacao de dados](#visualizacao-de-dados)
 
 
 
@@ -59,7 +59,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | Modelando Rede Neural com Tensorflow| | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Deep%20learning%20e%20reinforcemnt%20learning/modelando_rede_neural_com_tensorflow/modelando_rede_neural_com_tensorflow.ipynb) |
 
 
-# Interpretando Deslocamento e geolacalização
+# Interpretando Deslocamento e geolacalizacao
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 
@@ -77,6 +77,11 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 
 
 # Visao Computacional
+| Titulo        | Artigo           | Repositorio  |
+| ------------- |:-------------:| :-----:|
+| Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
+
+# Visualizacao de dados
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
