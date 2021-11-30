@@ -56,6 +56,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 # Deep learning e reinforcemnt learning
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
+| Modelando Rede Neural com Tensorflow| | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Deep%20learning%20e%20reinforcemnt%20learning/modelando_rede_neural_com_tensorflow/modelando_rede_neural_com_tensorflow.ipynb
+) |
 
 
 # Interpretando Deslocamento e geolacalização
