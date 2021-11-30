@@ -81,6 +81,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | ------------- |:-------------:| :-----:|
 | Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
 
+
 # Visualizacao de dados
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
