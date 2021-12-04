@@ -11,7 +11,7 @@ wandb
 *.zip
 *.gif
 *.jpg
-
+Modelos de Inteligência artifical e machine learning/dataset/
 scraping/ghibli.ipynb
 
 # VSCode workspace
