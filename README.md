@@ -47,8 +47,8 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 | ------------- |:-------------:| :-----:|
 |Classificação | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/classificacao.ipynb) | 
 |Pandas | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pandas.ipynb) | 
-|Pyspark | | [link]
-(https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pyspark.ipynb) 
+|Pyspark | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pyspark.ipynb) | 
+
 
 # Processamento de linguagem natural
 | Titulo        | Artigo           | Repositorio  |
