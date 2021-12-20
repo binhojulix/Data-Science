@@ -50,7 +50,7 @@ Análise de dados - Introdução com R |  | [link](https://github.com/binhojulix
 |Pyspark | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pyspark.ipynb) | 
 |Web-scraping-ML | | [link](https://github.com/binhojulix/Web-scraping-ML) | 
 
-https://github.com/binhojulix/Web-scraping-ML
+
 
 
 # Processamento de linguagem natural
@@ -86,11 +86,9 @@ https://github.com/binhojulix/Web-scraping-ML
 | Titulo        | Artigo           | Repositorio  |
 | ------------- |:-------------:| :-----:|
 | Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-
-| Introdução | | [link](https://github.com/binhojulix/ciencias-de-dados/tree/master/Vis%C3%A3o%20Computacional) |
-
-| Processamento-de-imagens-aplicada-a-auditoria | | [link](https://github.com/binhojulix/Processamento-de-imagens-aplicada-a-auditoria-autom-tica-de-v-deo-baseada-em-modelos-de-deep-learnig) |
-| Análise de Imagens Médicas | | [link](https://github.com/binhojulix/analise-imagens-medicas) |
+|Processamento-de-imagens-aplicada-a-auditoria| | [link](https://github.com/binhojulix/Processamento-de-imagens-aplicada-a-auditoria-autom-tica-de-v-deo-baseada-em-modelos-de-deep-learnig) | 
+|Pyspark | | [link](https://github.com/binhojulix/ciencias-de-dados/blob/master/Modelos%20de%20Intelig%C3%AAncia%20artifical%20e%20machine%20learning/pyspark.ipynb) | 
+|Análise de Imagens Médicas  | | [link](https://github.com/binhojulix/analise-imagens-medicas) | 
 
 
 
